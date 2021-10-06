@@ -1,0 +1,20 @@
+{
+  "name": "math-is-fun",
+  "version": "1.0.0",
+  "description": "https://doru-mathisfun.netlify.app",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "core-js": "^3.18.2",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
